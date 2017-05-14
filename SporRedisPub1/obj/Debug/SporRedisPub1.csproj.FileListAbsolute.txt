@@ -1,0 +1,10 @@
+c:\users\otimucin\documents\visual studio 2017\Projects\SporRedisPub1\SporRedisPub1\bin\Debug\SporRedisPub1.exe.config
+c:\users\otimucin\documents\visual studio 2017\Projects\SporRedisPub1\SporRedisPub1\bin\Debug\SporRedisPub1.exe
+c:\users\otimucin\documents\visual studio 2017\Projects\SporRedisPub1\SporRedisPub1\bin\Debug\SporRedisPub1.pdb
+c:\users\otimucin\documents\visual studio 2017\Projects\SporRedisPub1\SporRedisPub1\obj\Debug\SporRedisPub1.csprojResolveAssemblyReference.cache
+c:\users\otimucin\documents\visual studio 2017\Projects\SporRedisPub1\SporRedisPub1\obj\Debug\SporRedisPub1.exe
+c:\users\otimucin\documents\visual studio 2017\Projects\SporRedisPub1\SporRedisPub1\obj\Debug\SporRedisPub1.pdb
+c:\users\otimucin\documents\visual studio 2017\Projects\SporRedisPub1\SporRedisPub1\bin\Debug\StackExchange.Redis.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\SporRedisPub1\SporRedisPub1\bin\Debug\StackExchange.Redis.xml
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\SporRedisPub1\SporRedisPub1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\SporRedisPub1\SporRedisPub1\bin\Debug\Newtonsoft.Json.xml
